@@ -795,7 +795,7 @@ if ($model != null and in_array($model, $pages)) {
         <p>Copyright &copy; 2022-2024 <a target="_blank" href="https://www.birdy02.com"
                                          style="text-decoration: none;color: #666">林乐天的个人博客</a>
             Designed by 林乐天</p>
-        <a href="mailto:2596456807@qq.com" style="text-decoration: none;color: #555">联系邮箱: 2596456807@qq.com</a>
+        <a href="mailto:@qq.com" style="text-decoration: none;color: #555">联系邮箱: @qq.com</a>
     </footer>
     </body>
     </html>
@@ -951,7 +951,7 @@ if ($model != null and in_array($model, $pages)) {
         <p>Copyright &copy; 2022-2024 <a target="_blank" href="https://www.birdy02.com"
                                          style="text-decoration: none;color: #666">林乐天的个人博客</a>
             Designed by 林乐天</p>
-        <a href="mailto:2596456807@qq.com" style="text-decoration: none;color: #555">联系邮箱: 2596456807@qq.com</a>
+        <a href="mailto:2596456807@qq.com" style="text-decoration: none;color: #555">联系邮箱: @qq.com</a>
     </footer>
     </body>
     </html>
